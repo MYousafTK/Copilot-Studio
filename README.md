@@ -38,7 +38,7 @@ Project Description: This project uses a custom API integrated with Copilot Stud
 
 ![image](https://github.com/MYousafTK/Copilot-Studio/assets/128382787/5ae9b2e6-299c-41aa-9580-a9a9cf862da5)
 
-# Multiligual bot
+# Multilingual chatbot
 
 ![image](https://github.com/MYousafTK/Copilot-Studio/assets/128382787/ae1a2ad7-6331-429e-966c-e4584c3bc015)
 
