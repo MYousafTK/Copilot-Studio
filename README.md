@@ -1,16 +1,6 @@
 # Copilot-Studio
 
-# 1 - Data Race
-Project Name: DataRace
-
-Project Link:
-
-Project Stack: Power Pages, Copilot Studio(Power Virtual Agent), Dataverse, Power Automate
-
-Project Description: In DataRace, we've integrated PVA (Power Virtual Agents) into our Power Pages site. What makes it special is that we can directly chat with ChatGPT using a Power Automate flow. Additionally, we've implemented custom styling to enhance the user experience.
-
-
-# 2 - DSVirtual Agent(Tochebot)
+# 1 - DSVirtual Agent(Tochebot)
 
 Project Name: DSVirtual Agent (Tochebot)
 
@@ -51,6 +41,14 @@ Project Description: This project uses a custom API integrated with Copilot Stud
 ![image](https://github.com/MYousafTK/Copilot-Studio/assets/128382787/a97dd395-a31b-4e0e-abc2-8567a20f1204)
 
 
+# 2 - Data Race
+Project Name: DataRace
+
+Project Link:
+
+Project Stack: Power Pages, Copilot Studio(Power Virtual Agent), Dataverse, Power Automate
+
+Project Description: In DataRace, we've integrated PVA (Power Virtual Agents) into our Power Pages site. What makes it special is that we can directly chat with ChatGPT using a Power Automate flow. Additionally, we've implemented custom styling to enhance the user experience.
 
 
 
